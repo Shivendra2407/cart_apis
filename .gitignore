@@ -1,0 +1,28 @@
+led / optimized / DLL files
+__pycache__/
+*.py[cod]
+db.sqlite3
+migrations/
+media/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
